@@ -1,0 +1,11 @@
+date,category,type,amount
+2026-06-01,Salary,Income,5000000
+2026-06-02,Food,Expense,120000
+2026-06-03,Transport,Expense,50000
+2026-06-04,Shopping,Expense,300000
+2026-06-05,Freelance,Income,1000000
+2026-06-06,Education,Expense,250000
+2026-06-07,Entertainment,Expense,150000
+2026-06-08,Food,Expense,90000
+2026-06-09,Transport,Expense,40000
+2026-06-10,Shopping,Expense,200000 
